@@ -77,7 +77,7 @@ I'm grateful for the chance to learn, create, meet good people, and try again. T
 
 **Cảm ơn đời. Cảm ơn người. Cảm ơn vì mình còn được làm điều mình thích.**
 
-<table width="100%">
+<table>
 <tr>
 <td width="35%" align="center" valign="middle">
 <a href="https://open.spotify.com/track/4ruk62afWx9OKRBndFAxjw">
@@ -86,25 +86,25 @@ I'm grateful for the chance to learn, create, meet good people, and try again. T
 <p><strong>Cảm Ơn — RPT MCK</strong><br><sub>HVL · a little gratitude on repeat</sub></p>
 </td>
 <td width="65%" align="center" valign="middle">
-<pre>.------------------------------------------.
-| THANH FM / TRACK 26                      |
-|                                          |
-| CAM ON                      RPT MCK      |
-| HVL                         READY        |
-|                                          |
-|      || |      |        | | |          |
-|| |||||| || ||| || ||   || | || ||||||  |
-|| ||||||||| ||||||||| ||||||||| ||||||| |
-|||||||||||||||||||||||||||||||||||||||| |
-|||||||||||||||||||||||||||||||||||||||| |
-| ---------------------------------------- |
-|                                          |
-| o--------------------------------------- |
-| 00:00                              02:39 |
-|                                          |
-|      [&lt;&lt;]      [ PLAY &gt; ]      [&gt;&gt;]      |
-|              [ REPEAT ]                  |
-'------------------------------------------'</pre>
+<pre>        .------------------------------------------.        
+        | THANH FM / TRACK 26                      |        
+        |                                          |        
+        | CAM ON                      RPT MCK      |        
+        | HVL                         READY        |        
+        |                                          |        
+        | |      || |      |        | | |          |        
+        | || |||||| || ||| || ||   || | || ||||||  |        
+        | || ||||||||| ||||||||| ||||||||| ||||||| |        
+        | |||||||||||||||||||||||||||||||||||||||| |        
+        | |||||||||||||||||||||||||||||||||||||||| |        
+        | ---------------------------------------- |        
+        |                                          |        
+        | o--------------------------------------- |        
+        | 00:00                              02:39 |        
+        |                                          |        
+        |      [&lt;&lt;]      [ PLAY &gt; ]      [&gt;&gt;]      |        
+        |              [ REPEAT ]                  |        
+        '------------------------------------------'        </pre>
 <p><a href="https://open.spotify.com/track/4ruk62afWx9OKRBndFAxjw"><strong>▶ PLAY ON SPOTIFY</strong></a><br><sub>Waveform drawn from the song's Spotify preview</sub></p>
 </td>
 </tr>
