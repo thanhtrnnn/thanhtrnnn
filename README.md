@@ -77,7 +77,7 @@ I'm grateful for the chance to learn, create, meet good people, and try again. T
 
 **Cảm ơn đời. Cảm ơn người. Cảm ơn vì mình còn được làm điều mình thích.**
 
-<table>
+<table width="100%">
 <tr>
 <td width="35%" align="center" valign="middle">
 <a href="https://open.spotify.com/track/4ruk62afWx9OKRBndFAxjw">
@@ -92,11 +92,11 @@ I'm grateful for the chance to learn, create, meet good people, and try again. T
 | CAM ON                      RPT MCK      |
 | HVL                         READY        |
 |                                          |
-| |     | | |     |         | | |          |
-| | | | | | | | | | | |   | | | | | | | |  |
-| | | | | | | | | | | | | | | | | | | | |  |
-| | | | | | | | | | | | | | | | | | | | |  |
-| | | | | | | | | | | | | | | | | | | | |  |
+|      || |      |        | | |          |
+|| |||||| || ||| || ||   || | || ||||||  |
+|| ||||||||| ||||||||| ||||||||| ||||||| |
+|||||||||||||||||||||||||||||||||||||||| |
+|||||||||||||||||||||||||||||||||||||||| |
 | ---------------------------------------- |
 |                                          |
 | o--------------------------------------- |
