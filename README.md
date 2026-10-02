@@ -77,34 +77,38 @@ I'm grateful for the chance to learn, create, meet good people, and try again. T
 
 **Cảm ơn đời. Cảm ơn người. Cảm ơn vì mình còn được làm điều mình thích.**
 
-<div align="center">
-
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
 <a href="https://open.spotify.com/track/4ruk62afWx9OKRBndFAxjw">
-  <img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02430659fa8179500bd2b5e55f" alt="HVL album cover by RPT MCK: a reclining sculptural head in a dark Gothic interior, with red HVL lettering" width="240" />
+<img src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02430659fa8179500bd2b5e55f" alt="HVL album cover by RPT MCK: a reclining sculptural head in a dark Gothic interior, with red HVL lettering" width="220" />
 </a>
-
-**[Cảm Ơn — RPT MCK](https://open.spotify.com/track/4ruk62afWx9OKRBndFAxjw)**  
-<sub>HVL · a little gratitude on repeat</sub>
-
-</div>
-
-```text
-    |         | |  |         |             |  |  |
-    | | | | |||||  | | ||| | | |  |||     ||  |  | | ||| ||| |
-    ||| ||| |||||||||| |||||||||||||| |||||||||| ||| ||| |||||||
-    ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-    ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
---------------------------------------------------------------------
-    ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-    ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-    ||| ||| |||||||||| |||||||||||||| |||||||||| ||| ||| |||||||
-    | | | | |||||  | | ||| | | |  |||     ||  |  | | ||| ||| |
-    |         | |  |         |             |  |  |
-```
-
-<div align="center">
-<sub>Waveform drawn from the song's Spotify preview · click the cover to listen</sub>
-</div>
+<p><strong>Cảm Ơn — RPT MCK</strong><br><sub>HVL · a little gratitude on repeat</sub></p>
+</td>
+<td width="65%" align="center" valign="middle">
+<pre>.------------------------------------------.
+| THANH FM / TRACK 26                      |
+|                                          |
+| CAM ON                      RPT MCK      |
+| HVL                         READY        |
+|                                          |
+| |      || |      |        | | |          |
+| || |||||| || ||| || ||   || | || ||||||  |
+| || ||||||||| ||||||||| ||||||||| ||||||| |
+| |||||||||||||||||||||||||||||||||||||||| |
+| |||||||||||||||||||||||||||||||||||||||| |
+| ---------------------------------------- |
+|                                          |
+| o--------------------------------------- |
+| 00:00                              02:39 |
+|                                          |
+|      [&lt;&lt;]      [ PLAY &gt; ]      [&gt;&gt;]      |
+|              [ REPEAT ]                  |
+'------------------------------------------'</pre>
+<p><a href="https://open.spotify.com/track/4ruk62afWx9OKRBndFAxjw"><strong>▶ PLAY ON SPOTIFY</strong></a><br><sub>Waveform drawn from the song's Spotify preview</sub></p>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
