@@ -1,45 +1,39 @@
-```text
-             ))       ))        /\        ((       ((
-                               /||\
-                              /_||_\
-                                ||
-                                ||
-       .------------------------++------------------------.
-       |                                                  |
-       |    T H A N H   F M           [ ON AIR ]           |
-       |                                                  |
-       |   .------------------------------------------.   |
-       |   |  .  . | .  | . || . | .  . || . | .  .  |   |
-       |   |  | || || | || |||| || | || |||| || | ||  |   |
-       |   |__|_||_||_|_||_||||_||_|_||_||||_||_|_||__|   |
-       |                                                  |
-       |   01 CODE       02 CAMERA       03 SIDE QUEST     |
-       |                                                  |
-       |      .--------.               .--------.         |
-       |      |  (><)  |===============|  (><)  |         |
-       |      '--------'               '--------'         |
-       |                                                  |
-       |   [ << ]   [ > ]   [ || ]   [ >> ]     VOL: 11   |
-       '--------------------------------------------------'
-
-          NO FIXED GENRE. ONE VERY SPECIFIC HUMAN.
-```
-
-<div align="center">
-
-### Xin chào. I'm Thành.
-
-**Thanh Tran · IT student at PTIT · Vietnam**
-
-*Currently broadcasting from somewhere between a terminal and an editing timeline.*
-
-</div>
+<table>
+<tr>
+<td width="45%" valign="middle">
+<pre>       ))      /\      ((
+              /||\
+             /_||_\
+               ||
+ .-------------++----------------.
+ |                                |
+ |  T H A N H  F M    [ ON AIR ]   |
+ |                                |
+ |  .--------------------------.  |
+ |  | . | . || . | . || . | .  |  |
+ |  |_|_||_||||_|_||_||||_|_||__|  |
+ |                                |
+ |  .----.              .----.    |
+ |  |(&gt;&lt;)|==============|(&gt;&lt;)|    |
+ |  '----'              '----'    |
+ |                                |
+ |  [&lt;&lt;]  [&gt;]  [||]  [&gt;&gt;]  VOL:11 |
+ '--------------------------------'</pre>
+<p align="center"><sub>NO FIXED GENRE. ONE VERY SPECIFIC HUMAN.</sub></p>
+</td>
+<td width="55%" valign="middle">
+<h2>Xin chào. I'm Thành.</h2>
+<p><strong>Thanh Tran · IT student at PTIT · Vietnam</strong></p>
+<p><em>Currently broadcasting from somewhere between a terminal and an editing timeline.</em></p>
+<p>My learning takes me through <strong>Python, Java, JavaScript, SQL, Linux, Docker, and Git</strong>, with <strong>Go, PostgreSQL, and networking</strong> on heavy rotation.</p>
+<p><a href="https://github.com/thanhtrnnn?tab=repositories"><strong>▶ TUNE INTO THE REPOSITORIES</strong></a></p>
+</td>
+</tr>
+</table>
 
 ### SIDE A / things I build
 
 I like web applications, real-time collaboration, and practical AI experiments. Give me an idea with a real use, and I want to figure out the product, write the code, and get it running.
-
-My learning takes me through **Python, Java, JavaScript, SQL, Linux, Docker, and Git**, with **Go, PostgreSQL, and networking** on heavy rotation.
 
 ### SIDE B / things I notice
 
